@@ -1,5 +1,6 @@
-### Hi there 👋
+### Mae Masters
 
+👋 Trainee Software Enginering Scholar at <a href=https://academy.tech/>Academy</a> and First Class Chemistry Graduate from the University of Bristol.
 <!--
 **maemastersdev/maemastersdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
