@@ -14,6 +14,7 @@
 ### Contact Me
 
 email: maemastersdev@gmail.com
+or on <a href= https://www.linkedin.com/in/mae-masters/> LinkedIn </a>
 <!--
 **maemastersdev/maemastersdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
