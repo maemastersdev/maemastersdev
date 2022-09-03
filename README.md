@@ -10,6 +10,10 @@
 - <a href=https://linktodeployedwordle>WORDLE App</a> using HTML, CSS and JS 👩🏻‍💻 <a href= https://addcodehere> Code </a>
 - <a href=https://academy-maemastersdev-tv-shows.netlify.app/>TV Show Summaries Site</a> (React App) 👩🏻‍💻 <a href= https://github.com/maemastersdev/tv-shows-project> Code </a>
 
+
+### Contact Me
+
+email: maemastersdev@gmail.com
 <!--
 **maemastersdev/maemastersdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
