@@ -10,6 +10,10 @@
 - <a href=https://linktodeployedwordle>WORDLE App</a> using HTML, CSS and JS 👩🏻‍💻 <a href= https://addcodehere> Code </a>
 - <a href=https://academy-maemastersdev-tv-shows.netlify.app/>TV Show Summaries Site</a> (React App) 👩🏻‍💻 <a href= https://github.com/maemastersdev/tv-shows-project> Code </a>
 
+### I'm thinking about building...
+- A personal portfolio site using Gatsby
+- A simple calculator app using HTML, CSS and JS
+- A 100 Days of Code Diary
 
 ### Contact Me
 
