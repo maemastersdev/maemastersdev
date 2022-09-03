@@ -7,8 +7,8 @@
 ### Here are a few of my recent projects...
 
 - A <a href=https://linktodeployedapp/>Fullstack To Do List App</a> (PERN Stack) 👩🏻‍💻 <a href= https://github.com/maemastersdev/PERN-TODO> Code </a>
-- WORDLE App using HTML, CSS and JS
-- TV Show Summaries Site (React App)
+- <a href=https://linktodeployedwordle>WORDLE App</a> using HTML, CSS and JS 👩🏻‍💻 <a href= https://addcodehere> Code </a>
+- <a href=https://academy-maemastersdev-tv-shows.netlify.app/>TV Show Summaries Site</a> (React App) 👩🏻‍💻 <a href= https://github.com/maemastersdev/tv-shows-project> Code </a>
 
 <!--
 **maemastersdev/maemastersdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
