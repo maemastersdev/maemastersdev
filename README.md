@@ -6,6 +6,10 @@
 
 ### Here are a few of my recent projects...
 
+- A Fullstack To Do List App (PERN Stack)
+- WORDLE App using HTML, CSS and JS
+- TV Show Summaries Site (React App)
+
 <!--
 **maemastersdev/maemastersdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
