@@ -6,7 +6,7 @@
 
 ### Here are a few of my recent projects...
 
-- A <a href=https://linktodeployedapp/>Fullstack To Do List App</a> (PERN Stack)
+- A <a href=https://linktodeployedapp/>Fullstack To Do List App</a> (PERN Stack) 👩🏻‍💻 <a href= https://github.com/maemastersdev/PERN-TODO> Code </a>
 - WORDLE App using HTML, CSS and JS
 - TV Show Summaries Site (React App)
 
