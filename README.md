@@ -4,6 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maemastersdev&layout=compact)](https://github.com/maemastersdev/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=maemastersdev&color=ff69b4)
+
 ### Here are a few of my recent projects...
 
 - A <a href=https://linktodeployedapp/>Fullstack To Do List App</a> (PERN Stack) 👩🏻‍💻 <a href= https://github.com/maemastersdev/PERN-TODO> Code </a>
