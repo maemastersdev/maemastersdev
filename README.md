@@ -19,6 +19,7 @@
 
 email: maemastersdev@gmail.com
 or on <a href= https://www.linkedin.com/in/mae-masters/> LinkedIn </a>
+Alternatively, click <a href= https://calendly.com/maemasters/15-minute-chat> here </a> to book in a quick call with me.
 <!--
 **maemastersdev/maemastersdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
