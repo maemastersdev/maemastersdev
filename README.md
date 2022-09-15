@@ -21,7 +21,6 @@
 
 - email: maemastersdev@gmail.com
 - <a href= https://www.linkedin.com/in/mae-masters/> LinkedIn </a>
-- or alternatively, click <a href= https://calendly.com/maemasters/15-minute-chat> here </a> to book in a quick call with me.
 
 ![](https://hit.yhype.me/github/profile?user_id=103056092)
 
