@@ -12,9 +12,11 @@
 - <a href=https://academy-maemastersdev-tv-shows.netlify.app/>TV Show Summaries Site</a> (React App) 👩🏻‍💻 <a href= https://github.com/maemastersdev/tv-shows-project> Code </a>
 - <a href=https://team2-dog-breed-voter.netlify.app/>Dog Breed Voter App</a> (PERN Stack using Socket.io)
 
+### I'm currently building...
+- A simple calculator app using HTML, CSS and JS
+- 
 ### I'm thinking about building...
 - A personal portfolio site using Gatsby
-- A simple calculator app using HTML, CSS and JS
 - A 100 Days of Code Diary
 
 ### Contact Me
