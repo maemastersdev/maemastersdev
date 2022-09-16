@@ -14,7 +14,8 @@
 
 ### I'm currently building...
 - A simple calculator app using HTML, CSS and JS
-- 
+
+
 ### I'm thinking about building...
 - A personal portfolio site using Gatsby
 - A 100 Days of Code Diary
