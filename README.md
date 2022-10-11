@@ -21,9 +21,9 @@
   <tbody>
   <tbody align="center">
     <tr>
-      <td><a href="addlinkhere"><b>Study Resource Catalog App 📖<b></a></td>
-      <td><a href="addlinkhere"><b>React, TypeScript</b></a></td>
-      <td><a href="addlinkhere"><b>PostgreSQL Express Node.js</b></a></td>
+      <td><a href="https://c5c2-study-resources.netlify.app"><b>Study Resource Catalog App 📖<b></a></td>
+      <td><a href="https://github.com/maemastersdev/C5C2-Study-Resources-FrontEnd"><b>React, TypeScript</b></a></td>
+      <td><a href="https://github.com/maemastersdev/C5C2-Study-Resources-Backend"><b>PostgreSQL Express Node.js</b></a></td>
       <td><b>Collab</b></td>
       <!--<td><a href="addlinkhere"><b>Documentation</b></a></td>-->
     </tr>
