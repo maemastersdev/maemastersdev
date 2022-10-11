@@ -8,17 +8,55 @@
 
 ### Here are a few of my recent projects...
 
-- <a href=https://linktodeployedapp/>Fullstack To Do List App</a> (PERN Stack) 👩🏻‍💻 <a href= https://github.com/maemastersdev/PERN-TODO> Code </a>
-- <a href=https://academy-maemastersdev-tv-shows.netlify.app/>TV Show Summaries Site</a> (React App) 👩🏻‍💻 <a href= https://github.com/maemastersdev/tv-shows-project> Code </a>
-- <a href=https://team2-dog-breed-voter.netlify.app/>Dog Breed Voter App</a> (PERN Stack using Socket.io)
-
-### I'm currently building...
-- A simple calculator app using HTML, CSS and JS
-
-
-### I'm thinking about building...
-- A personal portfolio site using Gatsby
-- A 100 Days of Code Diary
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Projects</b></td>
+      <td><b>Frontend (code)</b></td>
+      <td><b>Backend (code)</b></td>
+      <td><b>Solo/Collab</b></td>
+      <!--<td><b>Documentation</b></td>-->
+    </tr>
+  </thead>
+  <tbody>
+  <tbody align="center">
+    <tr>
+      <td><a href="addlinkhere"><b>Study Resource Catalog App 📖<b></a></td>
+      <td><a href="addlinkhere"><b>React, TypeScript</b></a></td>
+      <td><a href="addlinkhere"><b>PostgreSQL Express Node.js</b></a></td>
+      <td><b>Collab</b></td>
+      <!--<td><a href="addlinkhere"><b>Documentation</b></a></td>-->
+    </tr>
+    <tr>
+      <td><a href="addlinkhere"><b>To Do App<b></a></td>
+      <td><a href="https://github.com/maemastersdev/PERN-TODO"><b>React, TypeScript</b></a></td>
+      <td><a href="addlinkhere"><b>PostgreSQL Express Node.js</b></a></td>
+      <td><b>Solo</b></td>
+      <!--<td><a href="addlinkhere"><b>Documentation</b></a></td>-->
+    </tr>
+    <tr>
+      <td><a href="https://team2-dog-breed-voter.netlify.app/"><b>Dog Voter App🐶</b></a></td>
+      <td><a href="addlinkhere"><b>React, TypeScript</b></a></td>
+      <td><a href="addlinkhere"><b>PostgreSQL Express Node.js Socket.io</b></a></td>
+      <td><b>Collab</b></td>
+      <!--<td><a href="addlinkhere"><b>Documentation</b></a></td>-->
+    </tr>
+    <tr>
+      <td><a href="addlinkhere"><b>Frontend Calculator</b></a></td>
+      <td><a href=""><b>React, TypeScript</b></a></td>
+      <td><a href="addlinkhere"><b></b></a></td>
+      <td><b>Solo</b></td>
+      <!--<td><a href="addlinkhere"><b>Documentation</b></a></td>-->
+    </tr>
+    <tr>
+      <td><a href="academy-maemastersdev-tv-shows.netlify.app"><b>Frontend TV Shows App<b></a></td>
+      <td><a href="https://github.com/maemastersdev/tv-shows-project"><b>React, TypeScript</b></a></td>
+      <td><a href="addlinkhere"><b></b></a></td>
+      <td><b>Collab</b></td>
+      <!--<td><a href="addlinkhere"><b>Documentation</b></a></td>-->
+    </tr>
+  </tbody>
+</table>
 
 ### Contact Me
 
