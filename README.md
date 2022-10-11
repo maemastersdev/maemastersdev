@@ -43,15 +43,15 @@
     </tr>
     <tr>
       <td><a href="addlinkhere"><b>Frontend Calculator</b></a></td>
-      <td><a href=""><b>React, TypeScript</b></a></td>
-      <td><a href="addlinkhere"><b></b></a></td>
+      <td><a href="https://github.com/maemastersdev/calculator"><b>React, TypeScript</b></a></td>
+      <td><b></b></td>
       <td><b>Solo</b></td>
       <!--<td><a href="addlinkhere"><b>Documentation</b></a></td>-->
     </tr>
     <tr>
       <td><a href="academy-maemastersdev-tv-shows.netlify.app"><b>Frontend TV Shows App<b></a></td>
       <td><a href="https://github.com/maemastersdev/tv-shows-project"><b>React, TypeScript</b></a></td>
-      <td><a href="addlinkhere"><b></b></a></td>
+      <td><b></b></td>
       <td><b>Collab</b></td>
       <!--<td><a href="addlinkhere"><b>Documentation</b></a></td>-->
     </tr>
